@@ -1,7 +1,7 @@
 # Sudoku
 Playable sudoku app with toggleable hints and some autosolving. Used to explore NP-complete problems
 
-![Screenshot of app with hints on](sudoku/Screen Shot 2023-07-21 at 12.08.26 PM.png)
+![Screenshot of app with hints on](Screen Shot 2023-07-21 at 12.08.26 PM.png)
 
 ## How to run
 
