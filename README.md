@@ -1,7 +1,9 @@
 # Sudoku
-Playable sudoku app with toggleable hints and some autosolving. Used to explore NP-complete problems
+Playable sudoku app with toggleable hints and some autosolving. Used to explore NP-complete problems.
+Built with Java Swing.
 
-![Screenshot of app with hints on](Screen Shot 2023-07-21 at 12.08.26 PM.png)
+![Screenshot of app with hints off](https://github.com/djlalo08/sudoku/blob/main/Screen%20Shot%202023-07-21%20at%2012.08.26%20PM.png?raw=true)
+![Screenshot of app with hints on][(https://github.com/djlalo08/sudoku/blob/main/Screen%20Shot%202023-07-21%20at%2012.08.26%20PM.png?raw=true)](https://github.com/djlalo08/sudoku/blob/main/Screen%20Shot%202023-07-21%20at%2012.07.48%20PM.png?raw=true)
 
 ## How to run
 
